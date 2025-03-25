@@ -1,11 +1,11 @@
 import './App.css';
 
-import Timer from './CountDownLightSwitch.js'
+import CountDownLightSwitch from './CountDownLightSwitch.js'
 function App() {
   return (
     <div className="App">
      
-     <Timer />
+     <CountDownLightSwitch />
     </div>
   );
 }
